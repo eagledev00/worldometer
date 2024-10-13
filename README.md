@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/matheusfelipeog/worldometer/master/.github/assets/images/worldometer.png" alt="Worldometer package logo" width="800px" />
     <br />
-    <em>Get live, population, geography, projected, and historical data from around the world!</em>
+    <em>Get live, population, geography, projected, and historical data from around the world.</em>
 </p>
 
 ---
