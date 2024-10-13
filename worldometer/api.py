@@ -4,7 +4,7 @@
 worldometer.api
 ---------------
 
-Implementation of a simplified API of the worldometer module.
+Implementation of a simplified API of the worldometer module..
 
 Here you will find all the functions available to obtain the metrics separately.
 
